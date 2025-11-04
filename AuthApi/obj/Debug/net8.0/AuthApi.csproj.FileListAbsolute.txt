@@ -1,0 +1,91 @@
+D:\fluter\AuthApi\obj\Debug\net8.0\AuthApi.csproj.AssemblyReference.cache
+D:\fluter\AuthApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\fluter\AuthApi\obj\Debug\net8.0\AuthApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\fluter\AuthApi\obj\Debug\net8.0\AuthApi.AssemblyInfoInputs.cache
+D:\fluter\AuthApi\obj\Debug\net8.0\AuthApi.AssemblyInfo.cs
+D:\fluter\AuthApi\obj\Debug\net8.0\AuthApi.csproj.CoreCompileInputs.cache
+D:\fluter\AuthApi\obj\Debug\net8.0\AuthApi.MvcApplicationPartsAssemblyInfo.cache
+D:\fluter\AuthApi\obj\Debug\net8.0\AuthApi.MvcApplicationPartsAssemblyInfo.cs
+D:\fluter\AuthApi\bin\Debug\net8.0\appsettings.json
+D:\fluter\AuthApi\bin\Debug\net8.0\AuthApi.staticwebassets.endpoints.json
+D:\fluter\AuthApi\bin\Debug\net8.0\AuthApi.exe
+D:\fluter\AuthApi\bin\Debug\net8.0\AuthApi.deps.json
+D:\fluter\AuthApi\bin\Debug\net8.0\AuthApi.runtimeconfig.json
+D:\fluter\AuthApi\bin\Debug\net8.0\AuthApi.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\AuthApi.pdb
+D:\fluter\AuthApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\fluter\AuthApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\fluter\AuthApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\fluter\AuthApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\fluter\AuthApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\fluter\AuthApi\obj\Debug\net8.0\scopedcss\bundle\AuthApi.styles.css
+D:\fluter\AuthApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\fluter\AuthApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\fluter\AuthApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\fluter\AuthApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\fluter\AuthApi\obj\Debug\net8.0\AuthApi.csproj.Up2Date
+D:\fluter\AuthApi\obj\Debug\net8.0\AuthApi.dll
+D:\fluter\AuthApi\obj\Debug\net8.0\refint\AuthApi.dll
+D:\fluter\AuthApi\obj\Debug\net8.0\AuthApi.pdb
+D:\fluter\AuthApi\obj\Debug\net8.0\AuthApi.genruntimeconfig.cache
+D:\fluter\AuthApi\obj\Debug\net8.0\ref\AuthApi.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\appsettings.json
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\AuthApi.staticwebassets.endpoints.json
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\AuthApi.exe
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\AuthApi.deps.json
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\AuthApi.runtimeconfig.json
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\AuthApi.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\AuthApi.pdb
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\AuthApi.csproj.AssemblyReference.cache
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\AuthApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\AuthApi.AssemblyInfoInputs.cache
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\AuthApi.AssemblyInfo.cs
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\AuthApi.csproj.CoreCompileInputs.cache
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\AuthApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\AuthApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\AuthApi.sourcelink.json
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\scopedcss\bundle\AuthApi.styles.css
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\AuthApi.csproj.Up2Date
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\AuthApi.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\refint\AuthApi.dll
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\AuthApi.pdb
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\AuthApi.genruntimeconfig.cache
+E:\Jay\flutter learning\mobile_login_app\flutter-learning-app\AuthApi\obj\Debug\net8.0\ref\AuthApi.dll

@@ -1,9 +1,6 @@
 // lib/controllers/search_controller.dart
-import 'dart:js_interop';
-
 import 'package:get/get.dart';
 import '../../services/api_service.dart';
-import 'search_model.dart';
 
 class Hotel {
   String name;

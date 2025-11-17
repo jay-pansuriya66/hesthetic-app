@@ -40,7 +40,7 @@ class LoginView extends GetView<LoginController> {
                     ),
                     const SizedBox(height: 20),
                     const Text(
-                      'Welcome Back to shorebird',
+                      'Welcome Back to Hesthetic',
                       style: TextStyle(
                         fontSize: 32,
                         fontWeight: FontWeight.bold,
